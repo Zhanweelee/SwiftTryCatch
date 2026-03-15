@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
   s.version      = '1.0.0'
   s.summary      = 'Adds try-catch support for Swift'
   s.description  = s.summary + ' via CocoaPods'
-  s.homepage     = 'https://github.com/williamFalcon/SwiftTryCatch'
+  s.homepage     = 'https://github.com/Zhanweelee/SwiftTryCatch'
   s.license      = 'MIT'
-  s.author       = { 'William Falcon' => 'waf2107@columbia.edu' }
-  s.source       = { git: 'https://github.com/williamFalcon/SwiftTryCatch.git', branch: 'master' }
+  s.author       = { 'Jonathan Zhan' => 'zhanweelee@gmail.com' }
+  s.source       = { git: 'https://github.com/Zhanweelee/SwiftTryCatch.git', branch: 'master' }
   s.source_files = 'SwiftTryCatch.{h,m}'
 end
